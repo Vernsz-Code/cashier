@@ -72,11 +72,8 @@ namespace tes
             this.panel2.Controls.Add(this.guna2ImageButton1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(267, 0);
-<<<<<<< HEAD
             this.panel2.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1120, 43);
             this.panel2.TabIndex = 3;
@@ -90,11 +87,8 @@ namespace tes
             this.label21.Location = new System.Drawing.Point(921, 11);
             this.label21.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label21.Name = "label21";
-<<<<<<< HEAD
             this.label21.Size = new System.Drawing.Size(44, 21);
-=======
             this.label21.Size = new System.Drawing.Size(41, 21);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.label21.TabIndex = 8;
             this.label21.Text = "V 1.1";
             // 
@@ -102,18 +96,15 @@ namespace tes
             // 
             this.guna2VSeparator1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2VSeparator1.Location = new System.Drawing.Point(1012, 5);
-<<<<<<< HEAD
             this.guna2VSeparator1.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.guna2VSeparator1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.guna2VSeparator1.Name = "guna2VSeparator1";
             this.guna2VSeparator1.Size = new System.Drawing.Size(13, 31);
             this.guna2VSeparator1.TabIndex = 7;
             // 
             // label3
             // 
-            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bahnschrift SemiBold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -136,11 +127,8 @@ namespace tes
             this.guna2ImageButton3.ImageRotate = 0F;
             this.guna2ImageButton3.ImageSize = new System.Drawing.Size(26, 26);
             this.guna2ImageButton3.Location = new System.Drawing.Point(965, 0);
-<<<<<<< HEAD
             this.guna2ImageButton3.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.guna2ImageButton3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.guna2ImageButton3.Name = "guna2ImageButton3";
             this.guna2ImageButton3.PressedState.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2ImageButton3.Size = new System.Drawing.Size(49, 42);
@@ -149,7 +137,7 @@ namespace tes
             // 
             // label2
             // 
-            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
             | System.Windows.Forms.AnchorStyles.Left)));
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bahnschrift Light", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -172,11 +160,8 @@ namespace tes
             this.guna2ImageButton2.ImageRotate = 0F;
             this.guna2ImageButton2.ImageSize = new System.Drawing.Size(24, 24);
             this.guna2ImageButton2.Location = new System.Drawing.Point(1025, 0);
-<<<<<<< HEAD
             this.guna2ImageButton2.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.guna2ImageButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.guna2ImageButton2.Name = "guna2ImageButton2";
             this.guna2ImageButton2.PressedState.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2ImageButton2.Size = new System.Drawing.Size(49, 42);
@@ -193,11 +178,8 @@ namespace tes
             this.guna2ImageButton1.ImageRotate = 0F;
             this.guna2ImageButton1.ImageSize = new System.Drawing.Size(24, 24);
             this.guna2ImageButton1.Location = new System.Drawing.Point(1067, 0);
-<<<<<<< HEAD
             this.guna2ImageButton1.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.guna2ImageButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.guna2ImageButton1.Name = "guna2ImageButton1";
             this.guna2ImageButton1.PressedState.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2ImageButton1.Size = new System.Drawing.Size(49, 42);
@@ -211,11 +193,8 @@ namespace tes
             this.Header.Controls.Add(this.pictureBox1);
             this.Header.Dock = System.Windows.Forms.DockStyle.Top;
             this.Header.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
             this.Header.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.Header.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.Header.Name = "Header";
             this.Header.Size = new System.Drawing.Size(267, 123);
             this.Header.TabIndex = 0;
@@ -236,11 +215,8 @@ namespace tes
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(16, 18);
-<<<<<<< HEAD
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(85, 79);
             this.pictureBox1.TabIndex = 0;
@@ -263,11 +239,8 @@ namespace tes
             this.panel1.Controls.Add(this.Header);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-<<<<<<< HEAD
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(267, 788);
             this.panel1.TabIndex = 0;
@@ -303,11 +276,8 @@ namespace tes
             this.btnClientDebt.ForeColor = System.Drawing.Color.Silver;
             this.btnClientDebt.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnClientDebt.Location = new System.Drawing.Point(0, 564);
-<<<<<<< HEAD
             this.btnClientDebt.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnClientDebt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnClientDebt.Name = "btnClientDebt";
             this.btnClientDebt.Padding = new System.Windows.Forms.Padding(71, 0, 0, 0);
             this.btnClientDebt.Size = new System.Drawing.Size(267, 49);
@@ -329,11 +299,8 @@ namespace tes
             this.btnDebt.ForeColor = System.Drawing.Color.Silver;
             this.btnDebt.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnDebt.Location = new System.Drawing.Point(0, 515);
-<<<<<<< HEAD
             this.btnDebt.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnDebt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnDebt.Name = "btnDebt";
             this.btnDebt.Padding = new System.Windows.Forms.Padding(71, 0, 0, 0);
             this.btnDebt.Size = new System.Drawing.Size(267, 49);
@@ -355,11 +322,8 @@ namespace tes
             this.btnlaporan.ForeColor = System.Drawing.Color.Silver;
             this.btnlaporan.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnlaporan.Location = new System.Drawing.Point(0, 466);
-<<<<<<< HEAD
             this.btnlaporan.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnlaporan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnlaporan.Name = "btnlaporan";
             this.btnlaporan.Padding = new System.Windows.Forms.Padding(71, 0, 0, 0);
             this.btnlaporan.Size = new System.Drawing.Size(267, 49);
@@ -381,11 +345,8 @@ namespace tes
             this.btnBarangMasuk.ForeColor = System.Drawing.Color.Silver;
             this.btnBarangMasuk.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnBarangMasuk.Location = new System.Drawing.Point(0, 417);
-<<<<<<< HEAD
             this.btnBarangMasuk.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnBarangMasuk.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnBarangMasuk.Name = "btnBarangMasuk";
             this.btnBarangMasuk.Padding = new System.Windows.Forms.Padding(71, 0, 0, 0);
             this.btnBarangMasuk.Size = new System.Drawing.Size(267, 49);
@@ -408,11 +369,8 @@ namespace tes
             this.button2.Image = global::tes.Properties.Resources.icons8_commercial_24px1;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button2.Location = new System.Drawing.Point(0, 368);
-<<<<<<< HEAD
             this.button2.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.button2.Name = "button2";
             this.button2.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.button2.Size = new System.Drawing.Size(267, 49);
@@ -433,11 +391,8 @@ namespace tes
             this.btnKas.Image = global::tes.Properties.Resources.icons8_money_24px;
             this.btnKas.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnKas.Location = new System.Drawing.Point(0, 319);
-<<<<<<< HEAD
             this.btnKas.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnKas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnKas.Name = "btnKas";
             this.btnKas.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.btnKas.Size = new System.Drawing.Size(267, 49);
@@ -458,11 +413,8 @@ namespace tes
             this.btnFaktur.Image = global::tes.Properties.Resources.icons8_ingredients_24px;
             this.btnFaktur.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnFaktur.Location = new System.Drawing.Point(0, 270);
-<<<<<<< HEAD
             this.btnFaktur.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnFaktur.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnFaktur.Name = "btnFaktur";
             this.btnFaktur.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.btnFaktur.Size = new System.Drawing.Size(267, 49);
@@ -483,11 +435,8 @@ namespace tes
             this.button3.Image = global::tes.Properties.Resources.icons8_return_purchase_24px;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button3.Location = new System.Drawing.Point(0, 221);
-<<<<<<< HEAD
             this.button3.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.button3.Name = "button3";
             this.button3.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.button3.Size = new System.Drawing.Size(267, 49);
@@ -508,11 +457,8 @@ namespace tes
             this.btnMaster.Image = global::tes.Properties.Resources.icons8_shopping_cart_24px;
             this.btnMaster.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMaster.Location = new System.Drawing.Point(0, 172);
-<<<<<<< HEAD
             this.btnMaster.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnMaster.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnMaster.Name = "btnMaster";
             this.btnMaster.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.btnMaster.Size = new System.Drawing.Size(267, 49);
@@ -534,11 +480,8 @@ namespace tes
             this.btnDashboard.Image = ((System.Drawing.Image)(resources.GetObject("btnDashboard.Image")));
             this.btnDashboard.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDashboard.Location = new System.Drawing.Point(0, 123);
-<<<<<<< HEAD
             this.btnDashboard.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.btnDashboard.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.btnDashboard.Name = "btnDashboard";
             this.btnDashboard.Padding = new System.Windows.Forms.Padding(27, 0, 0, 0);
             this.btnDashboard.Size = new System.Drawing.Size(267, 49);
@@ -553,11 +496,8 @@ namespace tes
             // 
             this.mainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.mainPanel.Location = new System.Drawing.Point(267, 43);
-<<<<<<< HEAD
             this.mainPanel.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.mainPanel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.mainPanel.Name = "mainPanel";
             this.mainPanel.Size = new System.Drawing.Size(1120, 745);
             this.mainPanel.TabIndex = 8;
@@ -571,11 +511,8 @@ namespace tes
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(4);
-=======
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
->>>>>>> 1888567256b998c64e62194eae57a7505f61f596
             this.MinimumSize = new System.Drawing.Size(1364, 726);
             this.Name = "FormMain";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
