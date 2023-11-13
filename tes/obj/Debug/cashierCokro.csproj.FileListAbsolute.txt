@@ -1,0 +1,742 @@
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\tes.exe.config
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\tes.exe
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Guna.UI2.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\MySql.Data.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Buffers.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Memory.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\ZstdSharp.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\MySql.Data.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Buffers.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Memory.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormMain.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.frmReport.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.exe
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\zxing.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\zxing.presentation.dll
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\zxing.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\bin\Debug\zxing.presentation.xml
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormKas.resources
+C:\Users\smkn 4 bdl\Documents\cashierCokro\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\tes.exe.config
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\tes.exe
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\tes.pdb
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Buffers.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Memory.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\ZstdSharp.dll
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\MySql.Data.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Buffers.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Memory.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormKas.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormMain.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.frmReport.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.exe
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.pdb
+C:\Users\asus\Documents\cashierCokro\cashierCokro\tes\obj\Debug\tes.FormKasir.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\tes.exe.config
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\tes.exe
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Guna.UI2.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\MySql.Data.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Buffers.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Memory.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\ZstdSharp.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\MySql.Data.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Buffers.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Memory.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormKas.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormKasir.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormMain.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.frmReport.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.exe
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\obj\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.Permissions.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.Permissions.xml
+C:\Users\smkn 4 bdl\Desktop\Cashier\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\tes.exe.config
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\tes.exe
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\tes.pdb
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Buffers.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Memory.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.Permissions.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ZstdSharp.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\MySql.Data.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Buffers.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Memory.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.Permissions.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormKas.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormKasir.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormMain.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.frmReport.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.exe
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\tes.exe.config
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\tes.exe
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Guna.UI2.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\MySql.Data.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Buffers.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Memory.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Permissions.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ZstdSharp.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\MySql.Data.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Buffers.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Memory.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Permissions.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormKas.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormKasir.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormMain.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.frmReport.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.exe
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.pdb
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\RdlCompile.cache
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\RdlCompile.compiled
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormStruk.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormCetakFaktur.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Report1.rdlc
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\EnvDTE.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\stdole.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormBarangMasuk.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.BarangMasuk.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\obj\Debug\tes.FormCetakFakturTunai.resources
+C:\Users\smkn 4 bdl\Desktop\CashierBarcode\tes\bin\Debug\Report2.rdlc
+<<<<<<< HEAD
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.BarangMasuk.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormAddKas.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormAddStaff.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormBarangMasuk.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormCetakFaktur.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormCetakFakturTunai.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDashboard.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDebt.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormDebtDetails.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormFaktur.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormKas.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormKasir.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormMain.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormReceivables.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormReceivablesDetails.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormRetur.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormStruk.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormUserSettings.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FrmBuy.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FrmStok.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.frmPilihBarang.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.frmReport.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.Properties.Resources.resources
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\cashierCokro.csproj.CopyComplete
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.pdb
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Report1.rdlc
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Report2.rdlc
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\tes.dll.config
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\tes.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\tes.pdb
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\BouncyCastle.Cryptography.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\EPPlus.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\EPPlus.Interfaces.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\EPPlus.System.Drawing.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Google.Protobuf.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Guna.UI2.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Compression.LZ4.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Hash.xxHash.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\MySql.Data.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Buffers.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.ComponentModel.Annotations.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Data.SQLite.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.IO.Pipelines.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Memory.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.AccessControl.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.Permissions.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.Principal.Windows.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ZstdSharp.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\EnvDTE.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\stdole.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\BouncyCastle.Crypto.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\BouncyCastle.Cryptography.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\EPPlus.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Google.Protobuf.pdb
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Google.Protobuf.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Compression.LZ4.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\K4os.Hash.xxHash.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\MySql.Data.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Buffers.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Data.SQLite.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.IO.Pipelines.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Memory.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.AccessControl.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.Permissions.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Security.Principal.Windows.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Report1.rdlc
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Report2.rdlc
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\tes.pdb
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\MySql.Data.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Data.SQLite.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Permissions.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ZstdSharp.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\EnvDTE.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\stdole.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\EPPlus.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\MySql.Data.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Buffers.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Data.SQLite.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.IO.Pipelines.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Memory.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.AccessControl.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Permissions.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\tes.exe.config
+C:\Users\asus\Desktop\CashierBarcode\tes\bin\Debug\tes.exe
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.exe
+C:\Users\asus\Desktop\CashierBarcode\tes\obj\Debug\tes.FormLogin.resources
+=======
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Report1.rdlc
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Report2.rdlc
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\EPPlus.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\EnvDTE.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\stdole.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\EPPlus.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.BarangMasuk.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormBarangMasuk.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormCetakFaktur.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormCetakFakturTunai.resources
+C:\Users\asus\Documents\CashierBarcode\tes\obj\Debug\tes.FormStruk.resources
+>>>>>>> 1888567256b998c64e62194eae57a7505f61f596
